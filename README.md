@@ -35,9 +35,9 @@ public class README {
        
   public void displayExp(){
     String ide = "VSCode"; 
-    String code[] = {"Java", "Python","C/C++","HTML", "CSS", "Bootstrap"}; // In order of experience
-    String gui[] = {"JavaFX", "Swing", Tkinker"); 
-    String concepts[] = {"Data algorithms", "Object-Oriented Design", "GUI fundementals","Software Development Principles"}; 
+    String code[] = {"Java", "Python","C/C++", "HTML", "CSS", "Bootstrap"}; // In order of experience
+    String gui[] = {"JavaFX", "Swing", "Tkinker"); 
+    String concepts[] = {"Data algorithms", "Object-Oriented Design", "GUI fundementals", "Software Development Principles"}; 
   }
   
   public void displayProjects(){
