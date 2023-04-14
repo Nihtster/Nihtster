@@ -1,5 +1,5 @@
 ## Hi, I'm Nihtster
-<img align='right' src="https://user-images.githubusercontent.com/77190903/232153183-72135297-f49b-4ead-ac15-275e26acf001.png" width="230">
+<!-- <img align='right' src="https://user-images.githubusercontent.com/77190903/232153183-72135297-f49b-4ead-ac15-275e26acf001.png" width="230"> -->
 
 Software Engineer @ [University of Arizona](https://degrees.apps.asu.edu/major-map/ASU00/TSSERBS/null/ALL/2022?init=false&nopassive=true) <br/>
 Bookseller @ [Barnes & Noble](https://www.barnesandnoble.com/)
