@@ -19,10 +19,11 @@ import userInfo
 
 public class README {
   public static void main (String[] args) {
-    displayInfo();
-    displayEdu();
-    displayExp();
-    displayProjects();
+    README instance = new README();
+    instance.displayInfo();
+    instance.displayEdu();
+    instance.displayExp();
+    instance.displayProjects();
   }
   
   public void displayInfo(){
