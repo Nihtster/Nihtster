@@ -42,8 +42,8 @@ public class README {
   }
   
   public void displayProjects(){
-    Checkers gameDemo = new Checkers(); // School-related project
-    ComplicatedText msg = new ComplicatedText(); // Personal project
+    Checkers gameDemo = new Checkers(); // Game of checkers using a CLI and GUI along with a comuter opponent
+    PriceAtlas pa = new priceAtlas(); // MySQL game item price tracker 
     PythonExperience demos = new PythonExperience(); // School-influenced personal mini projects
     //Website mySite = new Website(); // Incomplete website portfolio
   } 
